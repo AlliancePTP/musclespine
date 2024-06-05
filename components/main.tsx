@@ -27,7 +27,7 @@ export function Main() {
 
         2545 Capital Ave SW STE 140<br />
         Battle Creek, MI 49015<br />
-        Fax: (269) 797-9770<br />
+        Fax: (269) 979-9770<br />
         Phone: <a href="tel:269-218-8878">(269) 218-8878</a><br />
       </p>
       <Link
